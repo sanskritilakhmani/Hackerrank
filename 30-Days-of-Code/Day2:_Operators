@@ -16,7 +16,6 @@
 # Print The total meal cost is totalCost dollars., where totalCost is the rounded integer result of the entire bill (mealCost with
 # added tax and tip).
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 #!/bin/python3
 
 import math
