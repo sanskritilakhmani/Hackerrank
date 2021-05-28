@@ -67,3 +67,46 @@ PQRS 4
 	
 select * from(select distinct city,length(city) from station order by length(city) asc,city asc) where rownum=1 union
 select * from(select distinct city,length(city) from station order by length(city) desc,city desc) where rownum=1;
+
+#STATION 6
+"""
+Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates.
+
+Input Format
+
+The STATION table is described as follows:
+
+Station.jpg
+
+where LAT_N is the northern latitude and LONG_W is the western longitude.
+"""
+/*
+Enter your query here.
+*/
+Select DISTINCT(CITY) From STATION where CITY REGEXP "^[aeiou].*";
+
+#From LAst
+
+SELECT DISTINCT CITY FROM STATION
+
+WHERE CITY REGEXP '[aeiou]$';
+
+#BOTH
+
+/*
+Enter your query here.
+*/
+
+SELECT DISTINCT city FROM station WHERE city RLIKE '^[aeiou].*[aeiou]$';
+
+#NOT STARTING WITH vowels
+
+SELECT DISTINCT CITY FROM STATION
+WHERE CITY REGEXP '^[^aeiou]';
+
+Query the list of CITY names from STATION that do not end with vowels. Your result cannot contain duplicates.
+
+
+SELECT DISTINCT CITY FROM STATION WHERE CITY REGEXP '[^aiueo]$';
+
+
