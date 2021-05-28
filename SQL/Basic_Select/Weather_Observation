@@ -65,6 +65,5 @@ ABC 3
 PQRS 4
 """
 	
-SELECT CITY, LENGTH(CITY) FROM STATION ORDER BY LENGTH(CITY), CITY LIMIT 1;
-SELECT CITY, LENGTH(CITY) FROM STATION ORDER BY LENGTH(CITY) DESC, CITY LIMIT 1;
-
+select * from(select distinct city,length(city) from station order by length(city) asc,city asc) where rownum=1 union
+select * from(select distinct city,length(city) from station order by length(city) desc,city desc) where rownum=1;
