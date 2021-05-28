@@ -27,3 +27,20 @@ for ORACLE   =>    SELECT DISTINCT(CITY) FROM STATION WHERE MOD(ID,2)=0 ;
 
 
 for MySQL   =>    SELECT DISTINCT(CITY) FROM STATION WHERE (ID%2)=0 ;
+
+#STATION 4
+
+"""
+Find the difference between the total number of CITY entries in the table and the number of distinct CITY entries in the table.
+The STATION table is described as follows:
+
+Station.jpg
+
+where LAT_N is the northern latitude and LONG_W is the western longitude.
+"""
+
+*
+Enter your query here.
+Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
+*/
+Select COUNT(CITY) - COUNT(DISTINCT(CITY)) From STATION;
