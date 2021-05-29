@@ -1,3 +1,4 @@
+"""
 #itertools.permutations()
 
 # itertools.permutations(iterable[, r])
@@ -21,6 +22,7 @@
 # Print the permutations of the string S on separate lines.
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+"""
 from itertools import permutations
 
 S = raw_input().split()
