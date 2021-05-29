@@ -1,4 +1,4 @@
-"""
+/*
 Write a query that prints a list of employee names (i.e.: the name attribute) from the Employee table in alphabetical order.
 
 Input Format
@@ -25,7 +25,7 @@ Michael
 Patrick
 Rose
 Todd
-"""
+*/
 Select name From Employee order by name;
 
 Select name From Employee where (salary > 2000 AND months < 10) Order by employee_id asc;
