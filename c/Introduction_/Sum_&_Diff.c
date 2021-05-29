@@ -1,4 +1,4 @@
-"""
+/*
 
 Objective
 
@@ -47,7 +47,7 @@ When we sum the integers  and , we get the integer . When we subtract the second
 When we sum the floating-point numbers  and , we get . When we subtract the second number  from the first number , we get  as their difference
 
 
-"""
+*/
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
