@@ -1,4 +1,4 @@
-"""
+/*
 
 Objective
 
@@ -48,7 +48,7 @@ C
 Language
 Welcome To C!!
 
-"""
+*/
 
 #include <stdio.h>
 #include <string.h>
