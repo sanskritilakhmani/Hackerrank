@@ -1,4 +1,5 @@
-# itertools.product()
+""" 
+itertools.product()
 
 # itertools.product()
 
@@ -29,6 +30,7 @@
 # Output the space separated tuples of the cartesian product.
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+"""
 from itertools import product
 
 A = raw_input().split()
