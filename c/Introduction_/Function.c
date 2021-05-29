@@ -1,4 +1,4 @@
-"""
+/*
 Functions in C
 A function is a set of statements that take inputs, do some specific computation and produces output.
 
@@ -60,9 +60,8 @@ Sample Input
 Sample Output
 
 6
-"""
-
-Method 1
+*/
+//Method 1
 
 #include <stdio.h>
 /*
@@ -87,7 +86,7 @@ int main() {
     return 0;
 }
 
-Method 2
+//Method 2
 include <stdio.h>
 
 /*
