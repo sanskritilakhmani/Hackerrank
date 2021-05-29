@@ -1,3 +1,4 @@
+"""
 # itertools.combinations_with_replacement(iterable, r) 
 # This tool returns  length subsequences of elements from the input iterable allowing individual elements to be repeated more than once.
 # Combinations are emitted in lexicographic sorted order. So, if the input iterable is sorted, the combination tuples will be produced in
@@ -18,6 +19,7 @@
 # Print the combinations with their replacements of string S on separate lines.
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+"""
 from itertools import *
 
 s,k = raw_input().split()
