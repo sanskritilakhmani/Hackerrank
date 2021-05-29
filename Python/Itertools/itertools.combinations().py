@@ -1,3 +1,4 @@
+"""
 # itertools.combinations()
 
 # itertools.combinations(iterable, r) 
@@ -20,6 +21,7 @@
 # Output Format
 # Print the different combinations of string S on separate lines.
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+"""
 from itertools import *
 s,k = raw_input().split()
 for j in range(1,int(k) + 1):
