@@ -1,4 +1,4 @@
-"""
+/*
 
 Objective
 
@@ -42,7 +42,7 @@ Sample Output
 1
 
 
-"""
+*/
 
 #include <stdio.h>
 
