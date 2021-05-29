@@ -1,4 +1,4 @@
-# sWAP cASE
+"""# sWAP cASE
 
 # You are given a string S. Your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
 
@@ -16,6 +16,7 @@
 # Print the modified string S.
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+"""
 import string
 lower = string.ascii_lowercase
 upper = string.ascii_uppercase
