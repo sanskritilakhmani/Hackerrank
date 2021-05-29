@@ -1,3 +1,4 @@
+"""
 # Compress the String!
 
 # In this task, we would like for you to appreciate the usefulness of the groupby() function of itertools . To read more about this
@@ -20,6 +21,7 @@
 
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
+"""
 from itertools import groupby
 
 S = str(input())
