@@ -74,7 +74,7 @@ Certification Solutions-
 		* [Iterable-tor](https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/Iterables_%26_Iterators.py)
 		* [Maximize](https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/Maximize_it.py)
 		* [Combinations](https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/itertools.combinations().py)
-		*     [Combination_with_replacement](https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/itertools.combinations_with_replacement().py)
+		* [Combination_with_replacement](https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/itertools.combinations_with_replacement().py)
 		https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/itertools.permutations().py)
 		https://github.com/sanskritilakhmani/Hackerrank/blob/main/Python/Itertools/itertools.product().py)
 	https://github.com/sanskritilakhmani/Hackerrank/tree/main/Python/String)
