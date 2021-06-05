@@ -1,4 +1,4 @@
-""""
+/*
 
 You are given an array of integers, , denoting the marks scored by students in a class.
 
@@ -74,7 +74,7 @@ Sample Output 2
 
 0
 
-"""
+*/
 
 #include <stdio.h>
 #include <string.h>
