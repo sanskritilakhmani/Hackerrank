@@ -45,7 +45,7 @@ Practices Completed
 	*	[Coumpound_Event](https://github.com/sanskritilakhmani/Hackerrank/blob/main/10_Days_of_Statistics/Day2/Compound_Event_Probability.py)
 	*	[More_Dice](https://github.com/sanskritilakhmani/Hackerrank/blob/main/10_Days_of_Statistics/Day2/More_Dice.py)
 
-[30-Days=of-Code](https://github.com/sanskritilakhmani/Hackerrank/tree/main/30-Days-of-Code)
+[30-Days-of-Code](https://github.com/sanskritilakhmani/Hackerrank/tree/main/30-Days-of-Code)
 ---------------------------------------------------
 * [Hello_World](https://github.com/sanskritilakhmani/Hackerrank/blob/main/30-Days-of-Code/Day0:_Hello_World)
 * [Data-Types](https://github.com/sanskritilakhmani/Hackerrank/blob/main/30-Days-of-Code/Day1:_Data_Types)
