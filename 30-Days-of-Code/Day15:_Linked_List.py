@@ -37,7 +37,7 @@ Explanation
 , so your method will insert  nodes into an initially empty list.
 First the code returns a new node that contains the data value  as the  of the list. Then create and insert nodes , , and  at the tail of the list.
 """
-![myimage](LinkedListExplanation.png)
+# ![myimage](LinkedListExplanation.png)
 class Node:
     def __init__(self,data):
         self.data = data
