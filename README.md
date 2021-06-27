@@ -5,7 +5,7 @@ This repository consists of solutions to HackerRank practice, tutorials, and int
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/sanskritilakhmani/Hackerrank)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sanskritilakhmani/Hackerrank)
-![Github views](https://img.shields.io/appveyor/tests/sanskritilakhmani/Hackerrank)
+![Github views](https://img.shields.io/badge/View-718-orange)
 ![Github Commit Since](https://img.shields.io/github/commits-since/Sanskritilakhmani/Hackerrank/3.4.7)
 
 Personal HackerRank Profile
